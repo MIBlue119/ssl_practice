@@ -13,7 +13,7 @@ this is a repo to record the practice of self-supervised learning and some resou
 - Benchmarks
     - speech
         - ****Speech processing Universal PERformance Benchmark (SUPERB)**** [https://superbbenchmark.org/](https://superbbenchmark.org/)
-            - Thesis
+            - Papers
                 - 2021 SUPERB: [https://arxiv.org/pdf/2105.01051.pdf](https://arxiv.org/pdf/2105.01051.pdf)
                 - 2022 SUPERB-SG: [https://arxiv.org/pdf/2203.06849.pdf](https://arxiv.org/pdf/2203.06849.pdf)
             - Toolkit
